@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "../env/bin/python3.7",
+    "python.linting.pylintArgs": [
+        "--max-paterns=15",
+        "--load-plugins=pylint_django",
+    ],
+    "git.ignoreLimitWarning": true,
+
+    "editor.formatOnSaveTimeout": 2000,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true
+}

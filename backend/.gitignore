@@ -1,0 +1,17 @@
+#migrationフォルダの除外
+migrations/
+
+#DS_Storeの除外
+.DS_Store
+
+#__pycache__の除外
+*__pycache__/
+
+#mediaの除外
+*media/
+
+#envの除外
+*env/
+
+
+

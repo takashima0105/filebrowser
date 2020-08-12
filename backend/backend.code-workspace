@@ -1,0 +1,9 @@
+{
+    "folders": [{
+        "path": "."
+    }
+    ],
+    "settings": {
+        "python.linting.flake8Enabled": true
+    }
+}
