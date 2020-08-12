@@ -1,0 +1,15 @@
+{
+	"folders": [
+	  {
+		"path": "."
+	  }
+	],
+	"settings": {
+	  "editor.formatOnSaveTimeout": 2000,
+	  "editor.formatOnSave": true,
+	  "[javascript, vue]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	  }
+	}
+  }
+  
